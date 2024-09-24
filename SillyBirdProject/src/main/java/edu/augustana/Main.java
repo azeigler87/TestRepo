@@ -9,6 +9,7 @@ public class Main {
 
         Chicken chicken = new Chicken();
         chicken.dance();
+
     }
 
 }
